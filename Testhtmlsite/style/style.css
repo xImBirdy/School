@@ -1,4 +1,28 @@
 body {
+   .myClass1 {
+  width: 100%;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 40px;
+  color: indianred;
+  font-family: Lato, "sans serif";
+}
+    .myClass2 {
+  width: 100%;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 40px;
+  color: indianred;
+  font-family: Lato, "sans serif";
+}
+    .myClass3 {
+  width: 100%;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 40px;
+  color: indianred;
+  font-family: Lato, "sans serif";
+}
     background-color: rgb(139,0,0);
     color: white;
     border-style: double;
