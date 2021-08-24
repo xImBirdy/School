@@ -1,38 +1,28 @@
 body {
-   .myClass1 {
-  width: 100%;
-  font-weight: lighter;
-  text-align: center;
-  font-size: 40px;
-  color: red;
-  font-family: Lato, "sans serif";
-}
-    .myClass2 {
-  width: 100%;
-  font-weight: lighter;
-  text-align: center;
-  font-size: 40px;
-  color: indianred;
-  font-family: Lato, "sans serif";
-}
-    .myClass3 {
-  width: 100%;
-  font-weight: lighter;
-  text-align: center;
-  font-size: 40px;
-  color: indianred;
-  font-family: Lato, "sans serif";
-}
     background-color: rgb(139,0,0);
     color: white;
     border-style: double;
     border-color: white;
     border-width: 7wpx;
     font-family: Arial;
-    background-image: url("https://www.fromanniek.com/wp-content/uploads/2018/06/0587f251249217.58e7079c0894c.gif");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    
-    https://cutewallpaper.org/21/backgrounds-for-html-gif/50-Space-Wallpaper-Gif-on-WallpaperSafari.gif
+    background-image: url("https://i.pinimg.com/originals/2f/99/bf/2f99bfc0ac6d02db55e307d676168af2.gif");
+}
+.Alpha {
+    width: 100%;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: Lato, sans serif;
+}
+.Bravo {
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+    color: lightgreen;
+}
+.Charlie {
+    justify-content: center;
+    align-items: center;
 }
